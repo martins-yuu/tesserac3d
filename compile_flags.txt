@@ -1,0 +1,6 @@
+-I
+lib/libft/include
+-I
+lib/MLX42/include
+-I
+src

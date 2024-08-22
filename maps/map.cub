@@ -1,0 +1,21 @@
+NO ./assets/missing.png
+SO ./assets/missing.png
+WE ./assets/missing.png
+EA ./assets/missing.png
+
+F 220,100,0
+C 225,30,0
+
+    11111
+    10001
+    10101
+    10001
+1111100011111
+10000N0000001
+1010001000101
+1000000000001
+1111100011111
+    10001
+    10101
+    10001
+    11111
